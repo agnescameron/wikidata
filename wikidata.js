@@ -10,7 +10,7 @@ function isObject(obj)
 const remoteRepo = 'https://github.com/agnescameron/wikidata'
 
 const context = {
-	"@vocab": "http://purl.org/dc/terms/",
+	"@vocab": "https://www.wikidata.org/wiki/Template:",
 	"prov": "http://www.w3.org/ns/prov#",
 }
 
