@@ -1,0 +1,10 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wd: <https://www.wikidata.org/wiki/Template:>
+PREFIX schema: <http://schema.org/>
+wd:Claim bnode {
+  a [ wd:Claim ] ;
+  wd:subject xsd:string ;
+  wd:property xsd:string ;
+  wd:qualifier xsd:string ;
+  wd:qualifierValue xsd:string ;
+}
