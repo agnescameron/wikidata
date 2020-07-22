@@ -1,0 +1,1609 @@
+{
+  "entities": {
+    "Q44541": {
+      "type": "item",
+      "id": "Q44541",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Pfannkuchen"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "blini"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "lívanec"
+        },
+        "en": {
+          "language": "en",
+          "value": "pancake"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Pancake"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "pancake"
+        },
+        "es": {
+          "language": "es",
+          "value": "tortita"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "pannukakku"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "pancake"
+        },
+        "id": {
+          "language": "id",
+          "value": "Panekuk"
+        },
+        "it": {
+          "language": "it",
+          "value": "pancake"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "ホットケーキ"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "팬케이크"
+        },
+        "la": {
+          "language": "la",
+          "value": "Lucunculus"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "panqueca"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "блины"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "pannkaka"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Налисники"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "薄烤饼"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "薄烤饼"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "薄烤饼"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "薄烤饼"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "Panqueca"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "克戟"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "pankeyk"
+        },
+        "th": {
+          "language": "th",
+          "value": "แพนเค้ก"
+        },
+        "de-ch": {
+          "language": "de-ch",
+          "value": "Eierkuchen"
+        },
+        "et": {
+          "language": "et",
+          "value": "Pannkook"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "pannekake"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "pannenkoek"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "pannekake"
+        },
+        "da": {
+          "language": "da",
+          "value": "pandekage"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "بان كيك"
+        },
+        "lb": {
+          "language": "lb",
+          "value": "Paangech"
+        },
+        "oc": {
+          "language": "oc",
+          "value": "pancake"
+        },
+        "is": {
+          "language": "is",
+          "value": "Pönnukaka"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "pan cake"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "پنکیک"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Lempeng"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Chula"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Naleśnik"
+        },
+        "ku": {
+          "language": "ku",
+          "value": "Şilikî"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "Құймақ"
+        },
+        "gd": {
+          "language": "gd",
+          "value": "Foileag"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "палачинка"
+        },
+        "az": {
+          "language": "az",
+          "value": "Blinçik"
+        },
+        "kn": {
+          "language": "kn",
+          "value": "ಪ್ಯಾನ್‍ಕೇಕ್"
+        },
+        "af": {
+          "language": "af",
+          "value": "Pannekoek"
+        },
+        "el": {
+          "language": "el",
+          "value": "Τηγανίτα"
+        },
+        "jv": {
+          "language": "jv",
+          "value": "Kuwé dhadhar"
+        },
+        "he": {
+          "language": "he",
+          "value": "חביתית"
+        },
+        "fy": {
+          "language": "fy",
+          "value": "stro"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "patkuko"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Srubhán"
+        },
+        "yi": {
+          "language": "yi",
+          "value": "בלינצע"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Opil txiki"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "Նրբաբլիթ"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Lievanec"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "pankūkas"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Pankek"
+        },
+        "ltg": {
+          "language": "ltg",
+          "value": "blīni"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "প্যানকেক"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "in der Pfanne gebackener flacher Teig aus Mehl, Milch und Eiern"
+        },
+        "en": {
+          "language": "en",
+          "value": "thin, round cake made of eggs, milk and flour"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "type de crêpe"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "pancake recipe"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "soort koek gemaakt van eieren, melk en meel, gebakken in een pan"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "Кулинарное изделие из теста"
+        },
+        "fy": {
+          "language": "fy",
+          "value": "pankoek"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "maträtt gjord på ägg, vetemjöl och mjölk"
+        },
+        "he": {
+          "language": "he",
+          "value": "בלילה מטוגנת בצורת חביתה וממולאה"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "tipus de crep"
+        },
+        "da": {
+          "language": "da",
+          "value": "tynd, rund kage fremstillet af æg, mælk og mel"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "hamur işi türünde tatlı"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "ময়দা, দুধ ও ডিমের ফেটানো মিশ্রণ চাটু বা তাওয়ায় সেঁকে তৈরি গোল, চ্যাপ্টা, পাতলা পিঠা"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "leivonnainen"
+        },
+        "es": {
+          "language": "es",
+          "value": "pan plano y redondo elaborado con huevos, leche y harina."
+        }
+      },
+      "claims": {
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "8e4c5982da34b531c80829e5401b8640424dff19",
+              "datavalue": {
+                "value": "Pancakes",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q44541$5E5C2834-FFD6-45C0-8AEF-DF01D403BD8B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "e18b6c696d7cbe963fdf5c05641fe9dbea63c1c0",
+              "datavalue": {
+                "value": "/m/01dwwc",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$CC38B4CA-8CC2-4EF6-BA23-7DA46381751C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "81f426752775b4fcc385d296b7754e993da30936",
+              "datavalue": {
+                "value": "Banana on pancake.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q44541$1234788f-45c4-649f-52f8-540697684dd5",
+            "rank": "normal"
+          }
+        ],
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "094b88532ba049668e4cf6d2dd7f78cbdec480ed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13276,
+                  "id": "Q13276"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$4849d672-4f35-1f83-897d-cc260abb26c7",
+            "rank": "normal"
+          }
+        ],
+        "P1256": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1256",
+              "hash": "b8a7ae8d759d11a7b15c10e58783b02ebfc8cf77",
+              "datavalue": {
+                "value": "41C623",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$A80AFB5B-5994-42FE-B1E6-0193FFED2A49",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "6f435037263bd369b65995356a4247a7ab14df31",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6932800,
+                  "id": "Q6932800"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$4DC5C5E3-485E-4DA5-B7FC-9914F103609E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P443": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P443",
+              "hash": "ae6b1e6036d93e782ebeb1ae54e5aa3c343386d9",
+              "datavalue": {
+                "value": "Ru-блин.ogg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "d291ddb7cd77c94a7bd709a8395934147e0864fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 7737,
+                      "id": "Q7737"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q44541$5d1b7f05-40bc-82bc-9804-8dafe504a6b2",
+            "rank": "normal"
+          }
+        ],
+        "P935": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P935",
+              "hash": "455087631538947734e1adc81f4d7ca42b2fd8a0",
+              "datavalue": {
+                "value": "Pancake",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q44541$50B05E54-3AF2-4E58-8A05-2F455F4D1574",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "a88acd382fd39af53a7982ff1dd10bc019f75a07",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8495,
+                  "id": "Q8495"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$b48ff628-401e-27dc-d5e1-ffec656b13c5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "184cd9b005338acd8c5428ce8b79a47b875bd73a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36465,
+                  "id": "Q36465"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$9140c8cc-4005-d663-3220-797446412f60",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "492220f37ae10e3913df2b39ed9407c971f4d548",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 93189,
+                  "id": "Q93189"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$8c0b1858-4e8c-f652-d8c4-7712c8debb99",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "2d28dcb866fc30bba95777874683d6b5a2018982",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 42962,
+                  "id": "Q42962"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$b0faee1d-4c4b-fd80-4673-298614f463fd",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "dc8535182c2f902a630612e41a8b250b5d5bfb32",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "b9ec6a42765c612b977baa57ec1766c644177359",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=94392852",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "05a9cc20d175b3d00884453c46ac0512aeb654f4",
+              "datavalue": {
+                "value": "4195206-6",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$E8FE4BA3-B068-4801-A5A9-FF5B3F71E700",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P3221": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3221",
+              "hash": "5c3f9e2a50ea57106aa82c315899d611c68ddf5e",
+              "datavalue": {
+                "value": "subject/pancakes",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$B302A643-A3FC-4FFF-BF1B-20692A73E5BB",
+            "rank": "normal"
+          }
+        ],
+        "P3827": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3827",
+              "hash": "92a29168a88feddd6cbea638737aedce90026471",
+              "datavalue": {
+                "value": "pancakes",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$69FAF694-B863-48F1-8AD6-2E48067C6312",
+            "rank": "normal"
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "bcbf62b60cc06aa134133b533324db913750992d",
+              "datavalue": {
+                "value": "Pancakes",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$9d7dce03-4426-dad4-774f-269e490a7477",
+            "rank": "normal"
+          }
+        ],
+        "P487": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P487",
+              "hash": "71f3ee792957ae93fc10c398b862475346b0e194",
+              "datavalue": {
+                "value": "🥞",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q44541$7c0f9a4a-4e8c-1258-e132-43b4e256cd59",
+            "rank": "normal"
+          }
+        ],
+        "P2581": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2581",
+              "hash": "0ddb2c7ac60f757a75cf75334e8e82799c8a7121",
+              "datavalue": {
+                "value": "00009061n",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$2E9456E0-B13A-49F3-8FAA-30702F47583A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 4837690,
+                          "id": "Q4837690"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1889": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1889",
+              "hash": "4ae250f426ce277e37386e8aaf230085c11186db",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 152526,
+                  "id": "Q152526"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$7e160b3f-4d54-2895-08ed-93452faa4fdd",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "de826d2f452cc92c0530cc6c0272612315f9b417",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746549,
+                  "id": "Q746549"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$8CE9F126-AE28-423D-89DD-6CA851C38B2A",
+            "rank": "normal"
+          }
+        ],
+        "P2012": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2012",
+              "hash": "9434c55736cd0486fbf0530fb7b4c45550bfcd35",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12505,
+                  "id": "Q12505"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$d6b2d399-449b-c228-d114-ebcdd1e88c3e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "dc8535182c2f902a630612e41a8b250b5d5bfb32",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "b9ec6a42765c612b977baa57ec1766c644177359",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=94392852",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2012",
+              "hash": "c7fb8b5bfe6a6cabdd594c100cd7c059a99d39e6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6661,
+                  "id": "Q6661"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q44541$9e26845d-40c4-9d8b-961d-dc8f4d705868",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "dc8535182c2f902a630612e41a8b250b5d5bfb32",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "b9ec6a42765c612b977baa57ec1766c644177359",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=94392852",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P5247": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5247",
+              "hash": "4b27bd91e4fa8a4c42d46b27767c086386cf1a5c",
+              "datavalue": {
+                "value": "3055-1080",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$018E4701-466D-4B9B-84BC-77C7EAE0E903",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "bd212d0d66f7ce650570cf871d7b72ffcd25c463",
+              "datavalue": {
+                "value": "sh85097361",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$9643881F-8EC1-4041-B70C-B5337B61CC64",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ac5d47e9fbcc281bc0d27a205ae02e22ad24ce31",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "b560dc6b281a39d061e189d2eb299a426a06f1a2",
+                      "datavalue": {
+                        "value": "https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "0dcf4f64e93fdcc654e2c7534285881fe48b9f3d",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-04-03T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P989": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P989",
+              "hash": "f8f2ceac12165ddc2cda52560adf3aac1fc9100f",
+              "datavalue": {
+                "value": "Nl-Pannenkoek-article.ogg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "700aeaff381db1a1b58c6d58777ab5ec7daefe17",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 7411,
+                      "id": "Q7411"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q44541$36C77E73-907D-4530-AD68-7B15DB81E85A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "18cc2dc5a30bf86e1afa90c1a857195483b3a3d7",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "47e139640c835deb9546aeb84a0a2068d92353b6",
+                      "datavalue": {
+                        "value": "https://nl.wikipedia.org/w/index.php?title=Pannenkoek&oldid=54666704",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1245": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1245",
+              "hash": "e862bfe3063a5c5ad33787cab3985027459efe2a",
+              "datavalue": {
+                "value": "8321",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$97701A27-4E1C-4FAF-8D2E-383BC2D97CF2",
+            "rank": "normal"
+          }
+        ],
+        "P4839": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4839",
+              "hash": "484262652fb9dee7e8d59b04b0068e8e521995a5",
+              "datavalue": {
+                "value": "Entity[\"FoodType\", \"Pancake\"]",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$689F94C0-3190-46A7-B52F-D6741801A736",
+            "rank": "normal"
+          }
+        ],
+        "P7818": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7818",
+              "hash": "fee54c6aae5f5fbcea988a373dcbab2546323f34",
+              "datavalue": {
+                "value": "Pancake",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$098CEB6F-5E3E-41EC-8D4C-DE72F9E1B035",
+            "rank": "normal"
+          }
+        ],
+        "P2347": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2347",
+              "hash": "d0f4ee17a3b4264d498277f05feb33b4a3ade6a5",
+              "datavalue": {
+                "value": "21781",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$3D2A9B24-316E-433C-9F28-D429F7C8E31B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 89345680,
+                          "id": "Q89345680"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8408": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8408",
+              "hash": "c082fae7c13f384c53dc8032151ad0a5f926d767",
+              "datavalue": {
+                "value": "Pancake",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q44541$B4AF872A-EBDC-478A-BEC1-49D83B0C428B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 64139102,
+                          "id": "Q64139102"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-07-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": {
+          "site": "afwiki",
+          "title": "Pannekoek",
+          "badges": []
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "بان كيك",
+          "badges": []
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Pankek",
+          "badges": []
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Pancake",
+          "badges": []
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Lívanec",
+          "badges": []
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Pandekage",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Pfannkuchen",
+          "badges": []
+        },
+        "dewikibooks": {
+          "site": "dewikibooks",
+          "title": "Kochbuch/ Eierpfannkuchen",
+          "badges": []
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "Τηγανίτα",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Pancake",
+          "badges": []
+        },
+        "enwikibooks": {
+          "site": "enwikibooks",
+          "title": "Cookbook:Pancake",
+          "badges": []
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Patkuko",
+          "badges": []
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Tortita",
+          "badges": []
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Pannkook",
+          "badges": []
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Opil txiki",
+          "badges": []
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "پنکیک",
+          "badges": []
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Pannukakku",
+          "badges": []
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Pancake",
+          "badges": []
+        },
+        "frwikibooks": {
+          "site": "frwikibooks",
+          "title": "Livre de cuisine/Pancake",
+          "badges": []
+        },
+        "fywiki": {
+          "site": "fywiki",
+          "title": "Stro (pankoek)",
+          "badges": []
+        },
+        "gawiki": {
+          "site": "gawiki",
+          "title": "Srubhán",
+          "badges": []
+        },
+        "gdwiki": {
+          "site": "gdwiki",
+          "title": "Foileag",
+          "badges": []
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Chula",
+          "badges": []
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "חביתית",
+          "badges": []
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "Նրբաբլիթ",
+          "badges": []
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Panekuk",
+          "badges": []
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Pönnukaka",
+          "badges": []
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Pancake",
+          "badges": []
+        },
+        "itwikiversity": {
+          "site": "itwikiversity",
+          "title": "Pancake",
+          "badges": []
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "ホットケーキ",
+          "badges": []
+        },
+        "jvwiki": {
+          "site": "jvwiki",
+          "title": "Kuwé dhadhar",
+          "badges": []
+        },
+        "kkwiki": {
+          "site": "kkwiki",
+          "title": "Құймақ",
+          "badges": []
+        },
+        "knwiki": {
+          "site": "knwiki",
+          "title": "ಪ್ಯಾನ್‍ಕೇಕ್",
+          "badges": []
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "팬케이크",
+          "badges": []
+        },
+        "kuwiki": {
+          "site": "kuwiki",
+          "title": "Şilikî",
+          "badges": []
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Lucunculus",
+          "badges": []
+        },
+        "lbwiki": {
+          "site": "lbwiki",
+          "title": "Paangech",
+          "badges": []
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Lempeng",
+          "badges": []
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Pannenkoek",
+          "badges": []
+        },
+        "nlwikibooks": {
+          "site": "nlwikibooks",
+          "title": "Kookboek/Pannenkoeken",
+          "badges": []
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Pannekake",
+          "badges": []
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Pannekake",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Naleśnik",
+          "badges": []
+        },
+        "plwikiquote": {
+          "site": "plwikiquote",
+          "title": "Naleśnik",
+          "badges": []
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Panqueca",
+          "badges": []
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Панкейк",
+          "badges": []
+        },
+        "ruwikinews": {
+          "site": "ruwikinews",
+          "title": "Категория:Блины",
+          "badges": []
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Pancake",
+          "badges": []
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Lievanec",
+          "badges": []
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Pannkaka",
+          "badges": []
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "แพนเค้ก",
+          "badges": []
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Pankeyk",
+          "badges": []
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Pankek",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Панкейк",
+          "badges": []
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "克戟",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "薄烤饼",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}
